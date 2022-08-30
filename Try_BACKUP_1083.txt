@@ -1,0 +1,14 @@
+<<<<<<< HEAD
+<<<<<<< HEAD
+This is 1 version file.
+This is 2 version file.
+This is 3 version file.
+=======
+This is my 1st version of file.
+This is my 2nd version of file.
+>>>>>>> parent of 06649d4 (v2)
+=======
+This is 1 version file.
+This is 2 version file.
+This is 3 version file.
+>>>>>>> 122871d298b6704a20fbb1edb8bead2cf9d666b1
